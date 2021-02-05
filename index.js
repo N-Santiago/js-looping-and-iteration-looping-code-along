@@ -15,14 +15,7 @@ function writeCards(cards)
 
   writeCards(cards);
 
-
-// function countDown(num)
-
-// let count = num 
-// while (count >= 0) {
-//   console.log(count--);
-// } 
-
+  
 function countDown(num) {
   let count = num
   while (count >= 0) {
